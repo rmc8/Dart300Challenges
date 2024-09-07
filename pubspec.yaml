@@ -2,7 +2,8 @@ name: dart300challenges
 description: A project containing 300 Dart programming challenges.
 environment:
     sdk: ">=3.1.0 <4.0.0"
-# dependencies:
+dependencies:
+    intl: ^0.19.0
 dev_dependencies:
     lints: ^2.0.0
     test: ^1.21.0

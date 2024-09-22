@@ -10,3 +10,4 @@ dev_dependencies:
     path: ^1.9.0
     csv: ^6.0.0
     sqflite_common_ffi: ^2.3.3
+    dio: ^5.7.0
